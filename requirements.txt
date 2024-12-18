@@ -1,0 +1,7 @@
+# 3. requirements.txt
+flask
+mysql-connector-python
+python-telegram-bot
+requests
+openpyxl
+reportlab
